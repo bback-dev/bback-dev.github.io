@@ -1,13 +1,15 @@
 ---
 title: "Spring Boot 4.0에서 OpenTelemetry는 어떻게 동작할까? Micrometer와 차이까지 쉽게 정리"
 date: 2026-04-05 01:01:00 +0900
-categories: [Observability]
+categories: [Backend, Springboot]
 tags: [opentelemetry, micrometer, spring boot 4, observability, tracing, metrics]
 description: "Spring Boot 4.0에서 OpenTelemetry가 어떤 방식으로 동작하는지, Micrometer와 어떤 관계인지 실무 관점에서 쉽게 정리했습니다."
 toc: true
 ---
 
 Spring Boot 4.0을 보다 보면 observability 쪽에서 눈에 띄는 변화가 하나 있습니다. 바로 **`spring-boot-starter-opentelemetry`**가 공식적으로 등장했다는 점입니다.
+
+> OpenTelemetry 모듈 자체의 역할과 구성 요소를 먼저 보고 싶다면, 함께 읽을 글로 정리한 **[OpenTelemetry는 무엇이고 어떤 역할을 할까? Spring Boot 개발자가 알아야 할 구조 정리](/posts/what-is-opentelemetry-module-and-role/)** 를 먼저 보는 것도 좋습니다.
 
 그런데 여기서 많은 분들이 바로 헷갈립니다.
 
@@ -97,20 +99,11 @@ OpenTelemetry는 특정 프레임워크보다 더 넓은 차원에서, **관측 
 
 ## “그럼 OpenTelemetry starter는 정확히 뭘 해주나?”
 
-Spring Boot 4.0 Release Notes 기준으로 새로 추가된 `spring-boot-starter-opentelemetry`는 다음 역할을 합니다.
+Spring Boot 4.0 Release Notes 기준으로 새로 추가된 `spring-boot-starter-opentelemetry`는 OTLP export와 OpenTelemetry SDK 연결을 더 자연스럽게 만드는 starter입니다.
 
-- OTLP로 metrics / traces를 export하는 데 필요한 의존성을 가져오고
-- OpenTelemetry SDK를 자동 구성하는 기반을 제공합니다.
+다만 여기서 중요한 점은, 이 starter를 넣었다고 해서 observability 전체가 자동 완성되는 것은 아니라는 점입니다. 이 starter의 더 구체적인 모듈 역할, Resource, SDK, export 지점은 별도 글에서 정리해두었습니다.
 
-여기서 중요한 건 “기반”이라는 표현입니다.
-
-이 starter 하나가 observability 전체를 마법처럼 끝내주는 건 아닙니다. 다만 Spring Boot가 OpenTelemetry와 연결되는 공식 경로를 더 자연스럽게 제공한다는 의미가 큽니다.
-
-예전보다 좋아진 점은 분명합니다.
-
-- 의존성 조합이 더 명확해졌고
-- 공식 지원 경로가 분명해졌고
-- OTLP export 구성이 더 자연스러워졌습니다.
+- [OpenTelemetry는 무엇이고 어떤 역할을 할까? Spring Boot 개발자가 알아야 할 구조 정리](/posts/what-is-opentelemetry-module-and-role/)
 
 ## Spring Boot 4.0에서 OpenTelemetry는 내부적으로 어떻게 이어질까
 
