@@ -4,6 +4,8 @@ date: 2026-04-05 01:11:00 +0900
 categories: [Observability]
 tags: [opentelemetry, observability, tracing, metrics, otlp, spring boot]
 description: "OpenTelemetry가 어떤 모듈이고 어떤 역할을 하는지, Spring Boot 개발자 관점에서 구조적으로 정리합니다."
+image:
+  path: /assets/img/posts/what-is-opentelemetry-cover.jpg
 toc: true
 ---
 

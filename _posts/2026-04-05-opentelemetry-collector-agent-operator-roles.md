@@ -4,6 +4,8 @@ date: 2026-04-05 01:22:00 +0900
 categories: [Observability]
 tags: [opentelemetry, collector, java agent, operator, kubernetes, observability]
 description: "OpenTelemetry Collector, Java Agent, Operator가 각각 어떤 역할을 하는지, DaemonSet 같은 배포 방식까지 실무 관점에서 쉽게 정리합니다."
+image:
+  path: /assets/img/posts/otel-collector-agent-operator-cover.jpg
 toc: true
 ---
 

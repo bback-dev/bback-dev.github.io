@@ -4,6 +4,8 @@ date: 2026-04-05 01:01:00 +0900
 categories: [Backend, Springboot]
 tags: [opentelemetry, micrometer, spring boot 4, observability, tracing, metrics]
 description: "Spring Boot 4.0에서 OpenTelemetry가 어떤 방식으로 동작하는지, Micrometer와 어떤 관계인지 실무 관점에서 쉽게 정리했습니다."
+image:
+  path: /assets/img/posts/micrometer-opentelemetry-spring-boot-cover.jpg
 toc: true
 ---
 

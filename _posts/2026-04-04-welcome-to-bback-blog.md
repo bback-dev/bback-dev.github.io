@@ -4,6 +4,8 @@ date: 2026-04-04 23:19:00 +0900
 categories: [Insights, Blog]
 tags: [blog, introduction, engineering, archive]
 description: "BBACK 블로그의 운영 방향과 다루는 주제를 소개합니다."
+image:
+  path: /assets/img/posts/blog-welcome-cover.jpg
 ---
 
 이 블로그는 **개발자로서의 기록**, **학습한 내용의 정리**, **공유할 가치가 있는 정보**, 그리고 **실사용 기반의 리뷰와 추천**을 함께 담기 위해 시작했습니다.
