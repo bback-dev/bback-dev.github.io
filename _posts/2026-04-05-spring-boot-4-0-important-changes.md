@@ -4,8 +4,6 @@ date: 2026-04-05 00:13:00 +0900
 categories: [Backend, Springboot]
 tags: [spring boot 4.0, spring boot 4 migration, spring framework 7, java 21, backend]
 description: "Spring Boot 4.0의 핵심 변경점과 실무 마이그레이션 체크포인트를 한 번에 정리했습니다."
-image:
-  path: /assets/img/posts/spring-boot-4-migration-cover.svg
 toc: true
 ---
 
