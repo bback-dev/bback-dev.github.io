@@ -12,8 +12,7 @@ order: 5
 
 ## Profile
 
-- 이름: 김현우 (Hyunwoo Kim)
-- 공개 이름: BBACK
+- NickName: BBACK
 - Email: [bback.developer@gmail.com](mailto:bback.developer@gmail.com)
 - GitHub: [bback-dev](https://github.com/bback-dev)
 - LinkedIn: [bback-developer](https://www.linkedin.com/in/bback-developer/)
