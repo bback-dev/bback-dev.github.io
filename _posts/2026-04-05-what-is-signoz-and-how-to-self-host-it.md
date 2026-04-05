@@ -4,6 +4,8 @@ date: 2026-04-05 09:31:00 +0900
 categories: [Observability]
 tags: [signoz, observability, opentelemetry, self-hosted, docker, kubernetes]
 description: "OpenTelemetry 기반 관측 환경에서 SigNoz를 추천하는 이유와 Docker/Kubernetes 기준 셀프 호스팅 방법을 함께 정리했습니다."
+image:
+  path: /assets/img/posts/signoz-self-hosting-cover.jpg
 toc: true
 ---
 
