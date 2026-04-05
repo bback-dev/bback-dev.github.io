@@ -5,6 +5,8 @@ order: 4
 
 # About
 
+> English version: [About EN](/about-en/)
+
 안녕하세요. **BBACK**입니다.
 
 이 블로그는 단순히 글을 모아두는 공간이 아니라, 제가 실제로 배우고 만들고 개선해온 것들을 정리하는 아카이브입니다.

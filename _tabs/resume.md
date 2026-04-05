@@ -5,6 +5,8 @@ order: 5
 
 # Resume
 
+> English version: [Resume EN](/resume-en/)
+
 안녕하세요. **BBACK**입니다.  
 백엔드 엔지니어링을 중심으로 시스템 설계, 운영 자동화, 데이터 처리, 그리고 안정적인 서비스 운영에 관심을 두고 일해왔습니다.
 

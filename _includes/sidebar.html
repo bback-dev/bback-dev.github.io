@@ -26,7 +26,7 @@
         </a>
       </li>
       <!-- the real tabs -->
-      {% assign hidden_tabs = '/privacy-policy/,/affiliate-disclosure/' | split: ',' %}
+      {% assign hidden_tabs = '/privacy-policy/,/affiliate-disclosure/,/about-en/,/resume-en/' | split: ',' %}
       {% for tab in site.tabs %}
         {% if hidden_tabs contains tab.url %}
           {% continue %}
