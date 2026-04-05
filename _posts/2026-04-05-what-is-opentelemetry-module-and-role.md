@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [What Is OpenTelemetry and What Role Does It Play? A Structural Guide for Spring Boot Developers](/posts/what-is-opentelemetry-and-what-does-it-do-en/)
+
 OpenTelemetry를 처음 보면 이름부터 약간 헷갈립니다.
 
 - 라이브러리인가?

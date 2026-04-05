@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [What Do OpenTelemetry Collector, Java Agent, and Operator Actually Do? A Simple Structural Guide](/posts/opentelemetry-collector-java-agent-operator-roles-en/)
+
 OpenTelemetry를 조금 공부하다 보면 곧바로 용어가 폭발합니다.
 
 - Collector

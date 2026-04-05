@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [Spring Boot 4.0 Major Changes: 7 Migration Points Worth Checking First](/posts/spring-boot-4-0-major-changes-en/)
+
 Spring Boot 4.0은 단순한 버전 업그레이드라기보다, **실무 프로젝트의 기준선을 한 단계 올리는 메이저 전환**에 가깝습니다.
 
 겉으로 보면 `4.0`이라는 숫자 변화지만, 실제로는 의존성 구조, 웹 서버 선택, 설정 키, 테스트 구성, 관측성(Observability)까지 영향을 주는 변화가 많습니다. 그래서 기존에 Spring Boot 3.x를 운영하던 팀이라면 “무엇이 새로 생겼나?”보다 **“어디서 깨질 수 있나?”**를 먼저 보는 편이 훨씬 중요합니다.

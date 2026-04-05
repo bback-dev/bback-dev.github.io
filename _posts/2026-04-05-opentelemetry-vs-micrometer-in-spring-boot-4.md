@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [How OpenTelemetry Works in Spring Boot 4.0: A Practical View Alongside Micrometer](/posts/how-opentelemetry-works-with-micrometer-in-spring-boot-4-en/)
+
 Spring Boot 4.0을 보다 보면 observability 쪽에서 눈에 띄는 변화가 하나 있습니다. 바로 **`spring-boot-starter-opentelemetry`**가 공식적으로 등장했다는 점입니다.
 
 > OpenTelemetry 모듈 자체의 역할과 구성 요소를 먼저 보고 싶다면, 함께 읽을 글로 정리한 **[OpenTelemetry는 무엇이고 어떤 역할을 할까? Spring Boot 개발자가 알아야 할 구조 정리](/posts/what-is-opentelemetry-module-and-role/)** 를 먼저 보는 것도 좋습니다.

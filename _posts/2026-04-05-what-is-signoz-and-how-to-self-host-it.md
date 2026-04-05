@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [What Is SigNoz? Key Characteristics and Self-Hosting Approach from an OpenTelemetry Perspective](/posts/what-is-signoz-and-how-to-self-host-it-en/)
+
 OpenTelemetry를 공부하다 보면 결국 한 지점에서 질문이 생깁니다.
 
 - 수집은 어떻게 할까?

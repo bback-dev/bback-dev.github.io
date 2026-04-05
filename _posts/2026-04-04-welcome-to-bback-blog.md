@@ -8,6 +8,8 @@ image:
   path: /assets/img/posts/blog-welcome-cover.jpg
 ---
 
+> English version: [Launching Building Systems & Better Life](/posts/building-systems-and-better-life-blog-launch-en/)
+
 이 블로그는 **개발자로서의 기록**, **학습한 내용의 정리**, **공유할 가치가 있는 정보**, 그리고 **실사용 기반의 리뷰와 추천**을 함께 담기 위해 시작했습니다.
 
 인터넷에는 정보가 많지만, 실제로 도움이 되는 글은 생각보다 많지 않습니다. 검색해서 들어왔을 때 바로 답을 얻을 수 있는 글, 맥락과 기준이 함께 담긴 글, 그리고 나중에 다시 봐도 쓸모 있는 글을 꾸준히 쌓아가고 싶었습니다.
