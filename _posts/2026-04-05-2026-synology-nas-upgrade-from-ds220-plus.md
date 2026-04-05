@@ -4,6 +4,8 @@ date: 2026-04-05 10:08:00 +0900
 categories: [Review]
 tags: [synology, nas, ds220+, ds225+, ds425+, ds925+, home server]
 description: "파일 저장과 스트리밍 용도로 DS220+를 사용해온 입장에서, 2026년에 볼 만한 Synology NAS 업그레이드 후보를 정리했습니다."
+image:
+  path: /assets/img/posts/synology-nas-upgrade-cover.jpg
 toc: true
 ---
 
