@@ -17,6 +17,10 @@ toc: true
 
 기존에 타던 자전거는 **윌리어 몬테그라파 알루미늄 프레임 림브레이크 모델(105 / Tiagra 조합)** 이었습니다. 이 구성이 입문 이후 꽤 오래 함께한 장비라 익숙하고 무난했지만, 레이스 준비를 염두에 두고 보니 반응성, 변속 속도, 장거리 피로도 같은 부분에서 한 번쯤 업그레이드를 해볼 시점이 오긴 했습니다.
 
+아래는 실제로 타던 윌리어 몬테그라파 사진입니다.
+
+![기존에 타던 윌리어 몬테그라파 실사진](/assets/img/posts/wilier-montegrappa-owner-bike.jpg)
+
 이번 글은 바로 그 기준에서 정리한 **콜나고 V4 첫 라이딩 후기**입니다.
 
 ## 한눈에 결론
@@ -75,6 +79,10 @@ toc: true
 ![콜나고 V4 공식 이미지](https://cdn.shopify.com/s/files/1/0828/8980/2039/files/COLNAGO_V4_BIANCO_-_laterale_bagliore_oro.jpg?v=1741088328)
 
 출처: Colnago 공식 제품 페이지
+
+그리고 아래는 실제 구매한 콜나고 V4 실사진입니다.
+
+![실제 구매한 콜나고 V4 실사진](/assets/img/posts/colnago-v4-owner-bike.jpg)
 
 ## 첫 라이딩에서 좋았던 점
 
