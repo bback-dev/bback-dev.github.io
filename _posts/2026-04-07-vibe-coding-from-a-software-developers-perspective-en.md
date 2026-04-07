@@ -4,6 +4,8 @@ date: 2026-04-07 20:20:00 +0900
 categories: [Insights]
 tags: [vibe coding, ai coding, llm, software development, developer productivity, code review]
 description: "A practical reflection on why vibe coding became such a hot topic, how a developer’s role is changing, and why code quality systems matter even more in the age of AI coding tools."
+image:
+  path: /assets/img/posts/vibe-coding-cover.jpg
 toc: true
 ---
 

@@ -4,6 +4,8 @@ date: 2026-04-07 20:20:00 +0900
 categories: [Insights]
 tags: [vibe coding, ai coding, llm, software development, developer productivity, code review]
 description: "바이브 코딩이 왜 뜨거운 주제가 되었는지, 소프트웨어 개발자의 역할은 어떻게 바뀌는지, 그리고 코드 품질 문제를 어떻게 다뤄야 하는지 실무 관점에서 정리했습니다."
+image:
+  path: /assets/img/posts/vibe-coding-cover.jpg
 toc: true
 ---
 
