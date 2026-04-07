@@ -48,6 +48,8 @@ What is becoming more important now is the ability to:
 
 In that sense, the developer in a vibe coding era is becoming less of a pure producer and more of a **director, reviewer, quality manager, and final owner**.
 
+![Editorial illustration showing a software developer shifting from code production to review, architecture, and quality ownership](/assets/img/posts/vibe-coding-role-shift-illustration.jpg)
+
 ## Why vibe coding spread so quickly
 
 This trend is not growing only because it is fashionable. It is growing because it creates obvious value for both developers and non-developers.
@@ -101,6 +103,8 @@ It does not feel like a cold machine simply dumping output. It often feels more 
 
 That is one reason I sometimes think of this as a new form of **pair programming**.
 
+![Editorial illustration of a developer reviewing an AI-generated pull request](/assets/img/posts/vibe-coding-pr-review-illustration.jpg)
+
 The difference is that I am no longer always the person doing most of the typing. More and more, I become the person doing the filtering, reviewing, and steering.
 
 ## How the developer role is changing
@@ -152,6 +156,8 @@ At first, the changes often look fine. But after enough iterations, the structur
 - tests stop evolving cleanly with the implementation
 
 So vibe coding can speed up code production, but it can also **speed up code decay**.
+
+![Editorial illustration showing code quality degrading through repeated AI-assisted edits and being controlled by quality checks](/assets/img/posts/vibe-coding-code-quality-illustration.jpg)
 
 ## Why clean code matters even more now
 
