@@ -57,7 +57,9 @@ webmaster_verifications:
 sitemap:
   exclude:
     - /assets/
-    
+plugins:
+  - jekyll-sitemap
+  
 # Web Analytics Settings
 analytics:
   google:
