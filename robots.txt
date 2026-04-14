@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Keep search-visible assets crawlable for rendering and favicon discovery
+Allow: /assets/
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+Allow: /assets/img/favicons/
+
+Sitemap: https://bback-dev.github.io/sitemap.xml
