@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [Spring MVC vs WebFlux: When Should You Use Each?](/posts/spring-mvc-vs-webflux-when-to-use-en/)
+
 > 이 글은 Spring 시리즈의 첫 비교 글입니다. 이어서 **Blocking vs Non-blocking**, **Mono와 Flux**, **JPA와 R2DBC** 같은 주제로 확장해서 읽으면 흐름을 잡기 더 쉽습니다.
 
 Spring Boot를 공부하다 보면 한 번쯤 이런 고민을 하게 됩니다.

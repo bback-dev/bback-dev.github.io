@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [Mono vs Flux in Spring WebFlux: The Core Idea in Plain English](/posts/mono-vs-flux-in-spring-webflux-en/)
+
 > 이 글은 **[Spring MVC vs WebFlux, 언제 무엇을 써야 할까? 차이점 쉽게 정리](/posts/spring-mvc-vs-webflux-when-to-use/)**, **[Blocking vs Non-blocking, 백엔드 개발자라면 꼭 알아야 할 차이](/posts/blocking-vs-non-blocking-in-backend/)** 에 이어지는 Spring 시리즈 3편입니다. 이번에는 WebFlux를 볼 때 가장 자주 마주치는 **Mono** 와 **Flux** 를 쉽게 정리해보겠습니다.
 
 Spring WebFlux를 처음 공부하면 금방 마주치는 타입이 있습니다. 바로 `Mono` 와 `Flux` 입니다.

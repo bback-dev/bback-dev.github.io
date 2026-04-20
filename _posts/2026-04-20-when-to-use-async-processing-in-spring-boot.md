@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [When Do You Actually Need Async Processing in Spring Boot?](/posts/when-to-use-async-processing-in-spring-boot-en/)
+
 > 이 글은 **[Spring MVC vs WebFlux, 언제 무엇을 써야 할까? 차이점 쉽게 정리](/posts/spring-mvc-vs-webflux-when-to-use/)**, **[Blocking vs Non-blocking, 백엔드 개발자라면 꼭 알아야 할 차이](/posts/blocking-vs-non-blocking-in-backend/)**, **[Mono와 Flux란 무엇일까? Spring WebFlux를 이해하기 위한 핵심 개념 정리](/posts/mono-vs-flux-in-spring-webflux/)** 에 이어지는 Spring 시리즈 4편입니다.
 
 Spring Boot를 공부하다 보면 어느 시점엔 꼭 이런 고민을 하게 됩니다.

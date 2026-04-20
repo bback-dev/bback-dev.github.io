@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [WebFlux in Production: Pitfalls to Watch Before You Adopt It](/posts/webflux-production-pitfalls-en/)
+
 > 이 글은 **[Spring MVC vs WebFlux, 언제 무엇을 써야 할까? 차이점 쉽게 정리](/posts/spring-mvc-vs-webflux-when-to-use/)** 부터 이어진 Spring/WebFlux 시리즈의 마지막 글입니다.
 
 Spring WebFlux를 공부하다 보면 어느 시점에는 꼭 이런 생각이 듭니다.

@@ -9,6 +9,8 @@ image:
 toc: true
 ---
 
+> English version: [Blocking vs Non-Blocking in Backend Systems: What Actually Matters?](/posts/blocking-vs-non-blocking-in-backend-en/)
+
 > 이 글은 **[Spring MVC vs WebFlux, 언제 무엇을 써야 할까? 차이점 쉽게 정리](/posts/spring-mvc-vs-webflux-when-to-use/)** 에서 이어지는 시리즈 2편입니다. 앞 글에서 WebFlux와 MVC의 차이를 봤다면, 이번 글에서는 그 핵심 배경인 **Blocking** 과 **Non-blocking** 을 조금 더 쉽게 풀어보겠습니다.
 
 Spring WebFlux를 설명할 때 가장 자주 나오는 단어가 있습니다. 바로 **blocking** 과 **non-blocking** 입니다.
