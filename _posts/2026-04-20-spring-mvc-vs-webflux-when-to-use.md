@@ -297,20 +297,6 @@ Spring MVC와 WebFlux는 단순히 구버전과 신버전의 관계가 아닙니
 
 개인적으로는 특별한 이유가 없다면 Spring MVC로 시작하고, 실제 병목과 요구사항이 분명할 때 WebFlux를 검토하는 접근이 더 현실적이라고 봅니다.
 
-## 함께 읽으면 좋은 다음 글
-
-이 글을 시리즈로 확장한다면 아래 순서가 자연스럽습니다.
-
-1. **[Blocking과 Non-blocking 차이 쉽게 이해하기](/posts/blocking-vs-non-blocking-in-backend/)**
-2. **[Mono와 Flux란 무엇일까? Spring WebFlux를 이해하기 위한 핵심 개념 정리](/posts/mono-vs-flux-in-spring-webflux/)**
-3. **[Spring Boot에서 비동기 처리는 언제 필요할까? 꼭 써야 하는 경우와 아닌 경우](/posts/when-to-use-async-processing-in-spring-boot/)**
-4. **[JPA와 R2DBC 차이점 정리, Spring에서 무엇을 선택해야 할까?](/posts/jpa-vs-r2dbc-in-spring/)**
-5. **WebFlux를 실무에 도입할 때 주의할 점**
-
-이런 식으로 이어가면 단일 글보다 훨씬 강한 내부 링크 구조를 만들 수 있고, Spring 입문자부터 실무자까지 단계적으로 끌어올 수 있습니다.
-
-이번 글은 그 시리즈의 출발점으로 두기에 좋은 주제입니다.
-
 ---
 
 ## Spring/WebFlux 시리즈 전체 보기
