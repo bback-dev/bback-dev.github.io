@@ -250,8 +250,6 @@ Blocking과 Non-blocking은 WebFlux를 이해하기 위해서만 필요한 개�
 - **하지만 구조와 디버깅 난이도는 올라갈 수 있다**
 - **무엇이 더 좋은지는 서비스 특성과 팀 상황에 따라 달라진다**
 
-다음 글에서는 여기서 한 단계 더 들어가서, WebFlux에서 자주 등장하는 **[Mono와 Flux가 무엇인지](/posts/mono-vs-flux-in-spring-webflux/)** 를 예시 중심으로 정리해보겠습니다.
-
 ---
 
 ## Spring/WebFlux 시리즈 전체 보기
