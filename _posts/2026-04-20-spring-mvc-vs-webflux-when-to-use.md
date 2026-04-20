@@ -301,7 +301,7 @@ Spring MVC와 WebFlux는 단순히 구버전과 신버전의 관계가 아닙니
 
 이 글을 시리즈로 확장한다면 아래 순서가 자연스럽습니다.
 
-1. **Blocking과 Non-blocking 차이 쉽게 이해하기**
+1. **[Blocking과 Non-blocking 차이 쉽게 이해하기](/posts/blocking-vs-non-blocking-in-backend/)**
 2. **Spring WebFlux에서 Mono와 Flux는 무엇일까**
 3. **Spring Boot에서 비동기 처리는 언제 필요할까**
 4. **JPA와 R2DBC의 차이점 정리**
