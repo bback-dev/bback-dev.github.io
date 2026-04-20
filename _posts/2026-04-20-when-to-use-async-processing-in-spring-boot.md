@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot에서 비동기 처리는 언제 필요할까? 꼭 써야 하는 경우와 아닌 경우"
-date: 2026-04-20 15:00:00 +0900
+date: 2026-04-20 14:50:00 +0900
 categories: [Backend, Springboot]
 tags: [spring boot, async, asynchronous, backend, webflux, thread]
 description: "Spring Boot에서 비동기 처리가 언제 필요한지, 어떤 상황에서는 굳이 복잡하게 가져갈 필요가 없는지 실무 기준으로 정리했습니다."

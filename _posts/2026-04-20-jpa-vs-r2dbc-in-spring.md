@@ -1,6 +1,6 @@
 ---
 title: "JPA와 R2DBC 차이점 정리, Spring에서 무엇을 선택해야 할까?"
-date: 2026-04-20 15:10:00 +0900
+date: 2026-04-20 14:52:00 +0900
 categories: [Backend, Springboot]
 tags: [jpa, r2dbc, spring boot, webflux, spring data, blocking, non-blocking]
 description: "JPA와 R2DBC의 차이점, blocking과 non-blocking 데이터 접근 방식의 차이, 그리고 Spring에서 어떤 상황에 무엇을 선택하면 좋은지 쉽게 정리했습니다."
