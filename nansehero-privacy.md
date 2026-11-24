@@ -1,3 +1,11 @@
+---
+layout: page
+title: "난세의영웅: 삼국시대 개인정보처리방침"
+permalink: /nansehero/privacy/
+toc: false
+comments: false
+---
+
 **시행일** [실제 적용일]  
 **운영자** 방콕가이즈(BKGUYS)  
 **대상 앱** 난세의영웅: 삼국시대 (`com.bkguys.nansehero`)  
